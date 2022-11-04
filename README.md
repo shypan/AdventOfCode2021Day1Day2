@@ -1,0 +1,1 @@
+Run the main.py file for all the answers to Day 1 and Day2 for the Advent of Code 2021 Calender (https://adventofcode.com/2021)
